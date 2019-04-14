@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Kinde Gentlemen, your paines are registred, Where euery day I turne the Leafe, To reade them .',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Emma was obliged to fancy what she liked but she could never believe that in the same situation she should not have discovered the truth.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Alice was beginning to get very tired of sitting by her sister on the bank.'
+  'example4':
+      'Wall, said the landlord, fetching a long breath, that's a purty long sarmon for a chap that rips a little now and then.'
 };
 
 function status(statusText) {

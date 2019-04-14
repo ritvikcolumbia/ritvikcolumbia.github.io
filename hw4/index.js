@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Emma was obliged to fancy what she liked but she could never believe that in the same situation she should not have discovered the truth.',
   'example3':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.'
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example4':
       'Wall, said the landlord, fetching a long breath, that is a purty long sarmon for a chap that rips a little now and then.'
 };

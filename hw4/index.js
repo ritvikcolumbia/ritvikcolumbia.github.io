@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Alice was beginning to get very tired of sitting by her sister on the bank.'
   'example4':
-      'Wall, said the landlord, fetching a long breath, that's a purty long sarmon for a chap that rips a little now and then.'
+      'Wall, said the landlord, fetching a long breath, thats a purty long sarmon for a chap that rips a little now and then.'
 };
 
 function status(statusText) {

@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Kinde Gentlemen, your paines are registred, Where euery day I turne the Leafe, To reade them .',
+      'All hail, Macbeth! hail to thee, thane of Glamis!',
   'example2':
       'Emma was obliged to fancy what she liked but she could never believe that in the same situation she should not have discovered the truth.',
   'example3':
